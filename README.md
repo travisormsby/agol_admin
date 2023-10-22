@@ -1,4 +1,5 @@
-# agol_admin
+# ArcGIS Online administration
+
 Example notebooks for administering your ArcGIS Online organization using the ArcGIS API for Python
 
 * portal_connection.ipynb: How to connect to ArcGIS Online

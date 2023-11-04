@@ -1,6 +1,8 @@
 # ArcGIS Online administration
 
-This project was born from my own frustrations using the [reference documentation](https://developers.arcgis.com/python/api-reference/) for the ArcGIS API for Python. I found the reference hard to search, and I found a number of unexpected behaviors that were not documented in the reference. The intention of these notebooks is that you will be able to quickly find example code you can copy as well as explanations for why certain patterns work better than others. The notebooks also provide links back to the reference for every object, property and method described, to make it easier to get directly to a specific part of the official documentation.
+This project was born from my own frustrations using the [reference documentation](https://developers.arcgis.com/python/api-reference/) for the ArcGIS API for Python for automating administration of an ArcGIS Online organization. I found the reference hard to search, and I found a number of unexpected behaviors that were not documented in the reference. 
+
+The intention of these notebooks is that you will be able to quickly find example code you can copy as well as explanations for why certain patterns work better than others. The notebooks also provide links back to the reference for every object, property and method described, to make it easier to get directly to a specific part of the official documentation.
 
 Notebooks:
 
